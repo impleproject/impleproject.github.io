@@ -1,8 +1,11 @@
 # Project Overview
 ImpleProject is a minimalist, user-friendly web application designed to help individuals and teams manage their to-do lists effectively. It provides a streamlined interface for creating, organizing, and tracking tasks, ensuring that important deadlines and commitments are never missed.
 
+[impleprojectlogo](https://github.com/impleproject/impleproject.github.io/assets/172075915/9b8c828c-e54d-434a-b932-0a1d141b6c53)
+
 ## Key Features
-Task Creation and Management: Users can effortlessly create and manage two types of tasks:
+Task Creation and Management
+Users can effortlessly create and manage two types of tasks:
 
 - Tags: Represent daily to-do items that cannot be marked as completed.
 - Tasks: Define tasks with specific start and end dates, allowing for completion marking and personalization.
