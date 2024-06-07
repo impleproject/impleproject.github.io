@@ -14,7 +14,7 @@ Front-end: HTML, CSS, and JavaScript are employed to build the responsive and in
 Back-end: A Python server handles user authentication, database management, and task logic.
 
 ## Project Goals
-The primary goal of InDuty is to empower users to achieve their goals by providing a simple yet powerful tool for task management. By streamlining the task creation, organization, and completion process, ImpleProject aims to enhance productivity and reduce stress associated with managing to-do lists.
+The primary goal of ImpleProject is to empower users to achieve their goals by providing a simple yet powerful tool for task management. By streamlining the task creation, organization, and completion process, ImpleProject aims to enhance productivity and reduce stress associated with managing to-do lists.
 
 ## Contribution Guidelines
 We welcome contributions from developers interested in improving ImpleProject's functionality and design. Please follow our contribution guidelines to ensure a smooth and efficient development process.
